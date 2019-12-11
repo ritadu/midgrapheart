@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\dev\java\works\src\test\Exercice1_bataille_navale_arbre_2.java'" />
-    <option name="defaultScopeName" value="File 'C:\dev\java\works\src\test\Exercice1_bataille_navale_arbre_2.java'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\dev\java\works\src\test\Exercice1_bataille_navale_arbre_2.java'" />
+    <option name="customScope" value="File '...\src\Test.java'" />
+    <option name="defaultScopeName" value="File '...\src\Test.java'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\Test.java'" />
   </component>
 </application>
