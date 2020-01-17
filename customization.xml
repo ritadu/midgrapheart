@@ -1,0 +1,570 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ViewBreakpoints" is_action="true" action_type="-1" position="27">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBreakpointEnabled" is_action="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleTemporaryLineBreakpoint" is_action="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleBreakpointAction" is_group="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToggleLineBreakpoint" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RestoreBreakpoint" is_action="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowExecutionPoint" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="QuickEvaluateExpression" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EvaluateExpression" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Resume" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Pause" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ForceRunToCursor" is_action="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunToCursor" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.StepOutOfBlock" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepOut" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SmartStepInto" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ForceStepInto" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepInto" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ForceStepOver" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="StepOver" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Hotswap" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateRunningApplication" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AddToWatch" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EvaluateInConsole" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.SetValue" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger Actions" is_group="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CopyValue" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CompareValueWithClipboard" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CopyName" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.Inspect" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.JumpToSource" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.JumpToTypeSource" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.Tree.EvaluateInConsole" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.NewWatch" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.EditWatch" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.CopyWatch" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.RemoveWatch" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MoveWatchUp" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MoveWatchDown" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.SwitchWatchesInVariables" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.RemoveAllWatches" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.ToggleSortValues" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.MarkObject" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.FocusOnBreakpoint" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ShowReferring" is_action="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpoints" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpointsInFile" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExportThreads" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.CustomizeContextView" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.NewCustomField" is_action="true" action_type="1" position="27">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EditCustomField" is_action="true" action_type="1" position="28">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveCustomField" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EditArrayFilter" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveArrayFilter" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ViewText" is_action="true" action_type="1" position="32">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.CustomizeThreadsView" is_action="true" action_type="1" position="33">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EditFrameSource" is_action="true" action_type="1" position="34">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EditNodeSource" is_action="true" action_type="1" position="35">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.EditTypeSource" is_action="true" action_type="1" position="36">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ViewAsGroup" is_action="true" action_type="1" position="38">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.FilterArray" is_action="true" action_type="1" position="39">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AdjustArrayRange" is_action="true" action_type="1" position="40">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ShowRelatedStack" is_action="true" action_type="1" position="41">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ShowTypes" is_action="true" action_type="1" position="42">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ResumeThread" is_action="true" action_type="1" position="43">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.FreezeThread" is_action="true" action_type="1" position="44">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.InterruptThread" is_action="true" action_type="1" position="45">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AddSteppingFilter" is_action="true" action_type="1" position="48">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.StepOutOfBlock" is_action="true" action_type="1" position="49">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.CreateRenderer" is_action="true" action_type="1" position="50">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AutoRenderer" is_action="true" action_type="1" position="51">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.MuteRenderers" is_action="true" action_type="1" position="52">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.AsyncStacks" is_action="true" action_type="1" position="53">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.SwitchToTheNextContext" is_action="true" action_type="1" position="54">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.CallTracer" is_action="true" action_type="1" position="55">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.ReloadFile" is_action="true" action_type="1" position="56">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Run" />
+      <path value="Debugger Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
