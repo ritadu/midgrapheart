@@ -1,0 +1,14 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="path" value="C:\dev\java\tomcat" />
+      </TomcatInfo>
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 9.0.29" />
+        <option name="path" value="C:\tomcat9\apache-tomcat-9.0.29" />
+        <option name="version" value="9.0.29.0" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
