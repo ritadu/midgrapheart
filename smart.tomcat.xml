@@ -6,6 +6,9 @@
         <option name="path" value="C:\tomcat9\apache-tomcat-9.0.29" />
         <option name="version" value="9.0.29.0" />
       </TomcatInfo>
+      <TomcatInfo>
+        <option name="path" value="C:\dev\java\jdbc-web\.idea" />
+      </TomcatInfo>
     </option>
   </component>
 </application>
