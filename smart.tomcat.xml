@@ -2,12 +2,9 @@
   <component name="ServerConfiguration">
     <option name="tomcatInfos">
       <TomcatInfo>
-        <option name="name" value="Apache Tomcat 9.0.29" />
-        <option name="path" value="C:\tomcat9\apache-tomcat-9.0.29" />
-        <option name="version" value="9.0.29.0" />
-      </TomcatInfo>
-      <TomcatInfo>
-        <option name="path" value="C:\dev\java\jdbc-web\.idea" />
+        <option name="name" value="Apache Tomcat 8.5.50" />
+        <option name="path" value="C:\tomcat8_new" />
+        <option name="version" value="8.5.50.0" />
       </TomcatInfo>
     </option>
   </component>
