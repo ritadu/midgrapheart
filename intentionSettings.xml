@@ -1,5 +1,7 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="Java/Strings/Replace string concatenation with String.format()" />
+    <ignoreAction name="Java/I18N/Replace concatenation with formatted output" />
   </component>
 </application>
