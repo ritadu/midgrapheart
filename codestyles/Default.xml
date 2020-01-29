@@ -2,4 +2,7 @@
   <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MultiMarkdownCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
