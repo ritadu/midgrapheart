@@ -6,6 +6,9 @@
         <option name="path" value="C:\tomcat8_new" />
         <option name="version" value="8.5.50.0" />
       </TomcatInfo>
+      <TomcatInfo>
+        <option name="path" value="C:\dev\java\tomcat" />
+      </TomcatInfo>
     </option>
   </component>
 </application>
