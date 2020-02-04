@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GitIgnore" injector-id="java">
+      <display-name>SalonControlleur.SalonControlleur (fr.greta.java.testspringbooto)</display-name>
+      <place><![CDATA[psiMethod().withName("SalonControlleur").withParameters().definedInClass("fr.greta.java.testspringbooto.SalonControlleur")]]></place>
+    </injection>
+  </component>
+</application>
