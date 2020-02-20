@@ -203,12 +203,6 @@
       <path value="Debugger Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Debugger Actions" is_group="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Run" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XDebugger.CopyValue" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main menu" />
@@ -447,7 +441,7 @@
       <path value="Debugger Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Debugger.ViewAsGroup" is_action="true" action_type="1" position="38">
+    <group value="Debugger.ViewAsGroup" is_group="true" action_type="1" position="38">
       <path value="root" />
       <path value="Main menu" />
       <path value="Run" />

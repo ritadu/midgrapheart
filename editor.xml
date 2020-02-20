@@ -1,8 +1,24 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
   </component>
   <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseEndOfLineComments" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>

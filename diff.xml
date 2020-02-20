@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="MERGE_TRUST_EXIT_CODE" value="true" />
+  </component>
+</application>

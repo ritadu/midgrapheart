@@ -1,0 +1,7 @@
+<application>
+  <component name="MarkdownFoldingSettings">
+    <option name="COLLAPSE_VERBATIM_BLOCKS" value="true" />
+    <option name="COLLAPSE_CODE_FENCE_BLOCKS" value="true" />
+    <option name="COLLAPSE_MULTILINE_URL_IMAGES" value="true" />
+  </component>
+</application>
