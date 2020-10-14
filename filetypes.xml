@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="application" type="CLASS" />
+      <mapping pattern="class" type="CLASS" />
       <mapping pattern="exemple12" type="CLASS" />
       <mapping pattern="heritage2" type="CLASS" />
       <mapping pattern="heritage1" type="JAVA" />
