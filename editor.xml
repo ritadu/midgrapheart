@@ -9,6 +9,9 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseAnnotations" value="true" />
