@@ -11,6 +11,7 @@
       <mapping pattern="exercice1" type="JSP" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="exercice" type="PLAIN_TEXT" />
       <mapping pattern="exercice2" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
     </extensionMap>
